@@ -1,0 +1,27 @@
+{
+  "name": "study-backend-nodejs",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungle13042003/study-backend-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "Hung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hungle13042003/study-backend-nodejs/issues"
+  },
+  "homepage": "https://github.com/hungle13042003/study-backend-nodejs#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
